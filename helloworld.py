@@ -14,3 +14,5 @@ print("Update 5: Auto build testing.")
 print("Update 6: Did it work?")
 
 print("Update 7: It worked, right?")
+
+print("Update 8: Yes, it did.")
