@@ -12,3 +12,5 @@ print("Update 4: We are on a roll!")
 print("Update 5: Auto build testing.")
 
 print("Update 6: Did it work?")
+
+print("Update 7: It worked, right?")
